@@ -1,5 +1,6 @@
 USERNAME=$1
 PASSWORD=$2
-
+READ USERNAME
+READ PASSWORD
 echo "username is : $USERNAME, password is : $PASSWORD"
 
